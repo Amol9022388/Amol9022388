@@ -1,16 +1,34 @@
-## Hi there 👋
+# 🙋‍♂️ Hello! I'm Amol Patil
 
-<!--
-**Amol9022388/Amol9022388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a final year Diploma student in Computer Engineering at Shreeyash College.
 
-Here are some ideas to get you started:
+💡 I'm passionate about working in the IT field. My key skills include:
+- 🌟 Java Programming
+- 🧠 Problem Solving
+- 🎨 Creativity & Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 I love learning new technologies and building innovative projects.
+
+🌐 I enjoy sharing my work on platforms like GitHub.
+
+📫 Contact:
+- 📧 amolpatil9022388@gmail.com 
+- 📍 Jalgaon, Maharashtra, India
+
+---
+
+## 📈 GitHub Stats:
+
+![Amol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amolpatil&show_icons=true&theme=radical)
+
+---
+
+## 🛠️ Currently Learning:
+- Java Advanced Concepts
+- Spring Boot & REST APIs
+- Problem Solving on LeetCode
+
+---
+
+## ❤️ Thank You!
+Thanks for visiting my profile. Don’t forget to ⭐ star and follow!
